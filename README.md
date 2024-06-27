@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Diego <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Desarrollador apasionado de Python y Front-End, y diseñador principiante desde Brasil</h3>
+<h3 align="center">Desarrollador apasionado de Laravel y Front-End, y diseñador desde Peru</h3>
 
 - 🔭 Actualmente estoy trabajando en mi **Curso de Java**
 
