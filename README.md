@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h1 align="center">¡Hola! 👋 Soy Diego <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Desarrollador apasionado de Python y Front-End, y diseñador principiante desde Brasil</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 Actualmente estoy trabajando en mi **Curso de Java**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 Tengo conocimientos en **Php, Javascript, Laravel, Eloquent, Livewire, Bootstrap, Tailwind, HTML5 y CSS3**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 Busco colaborar en proyectos **front-end y back-end**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 Cómo contactarme: **migelo5511@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ Lo que me gusta hacer: **Me gusta mucho jugar baloncesto y los videojuegos... y, por supuesto, programar**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Conéctate conmigo:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
@@ -21,7 +21,7 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Lenguajes y Herramientas:</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -51,6 +51,5 @@
 
 ------
 
-[BrantLauro](https://github.com/BrantLauro)
+[Diego Saravia]([(https://github.com/AIZENCODE))
 
-Last Edited on: 05/08/2021
